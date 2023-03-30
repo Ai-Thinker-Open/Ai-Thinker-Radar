@@ -1,6 +1,6 @@
 ### clone
 ```
-git clone --recurse-submodules git@e.coding.net:axk/rd-01leidaxiangmu/Rd-01-UnvarnishedTransmissio.git
+git clone --recurse-submodules https://github.com/Ai-Thinker-Open/Ai-Thinker-Radar.git
 ```
 
 ### patch
