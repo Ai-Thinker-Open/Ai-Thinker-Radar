@@ -1,0 +1,4 @@
+[submodule "Ai-Thinker-WB2"]
+	path = Ai-Thinker-WB2
+	url = https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2.git
+	branch = release/rd-01
