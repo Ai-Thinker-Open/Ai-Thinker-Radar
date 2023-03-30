@@ -5,7 +5,7 @@ git clone --recurse-submodules https://github.com/Ai-Thinker-Open/Ai-Thinker-Rad
 
 ### patch
 ```
-cd rd-01_sdk/
+cd Ai-Thinker-WB2/
 git apply ../patch/bfl_main.patch
 ```
 
