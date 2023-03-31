@@ -17,7 +17,7 @@ BLECONTROLLER_LIB_PREFIX := blecontroller_602_
 
 ifeq ($(origin BL60X_SDK_PATH), undefined)
 BL60X_SDK_PATH_GUESS ?= $(shell pwd)
-BL60X_SDK_PATH ?= $(BL60X_SDK_PATH_GUESS)/../rd-01_sdk
+BL60X_SDK_PATH ?= $(BL60X_SDK_PATH_GUESS)/../Ai-Thinker-WB2
 $(info ****** Please SET BL60X_SDK_PATH ******)
 $(info ****** Trying SDK PATH [$(BL60X_SDK_PATH)])
 endif
