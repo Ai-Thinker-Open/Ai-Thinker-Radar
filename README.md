@@ -9,8 +9,14 @@ git clone --recurse-submodules https://github.com/Ai-Thinker-Open/Ai-Thinker-Rad
 ```
 cd Ai-Thinker-Radar/Ai-Thinker-WB2/toolchain/riscv/Linux
 . chmod755.shs
+cd ../../../..
 ```
-
+## patches
+```
+cd Ai-Thinker-WB2
+git apply ../patch/bfl_main.patch
+cd ..
+```
 ## build
 
 ```
