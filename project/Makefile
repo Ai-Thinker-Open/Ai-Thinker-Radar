@@ -2,6 +2,8 @@
 # This is a project Makefile. It is assumed the directory this Makefile resides in is a
 # project subdirectory.
 #
+CONFIG_CHIP_NAME=BL602
+CONFIG_LINK_ROM:=1
 
 PROJECT_NAME := radar
 PROJECT_PATH := $(abspath .)
