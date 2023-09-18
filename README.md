@@ -1,4 +1,4 @@
-# Ai-Tinker-Radar SDK
+# Ai-Thinker-Radar SDK
 This SDK is applicable to the Ai-Thinker Rd-01 module.
 
 ## clone
